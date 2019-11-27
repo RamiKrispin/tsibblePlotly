@@ -24,3 +24,4 @@ Suggests:
 VignetteBuilder: knitr
 URL: https://github.com/RamiKrispin/tsibblePlotly
 BugReports: https://github.com/RamiKrispin/tsibblePlotly/issues
+RoxygenNote: 6.1.1
